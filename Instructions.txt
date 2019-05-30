@@ -1,0 +1,5 @@
+1.Log in page (Django and Css) 
+2.Page to select the subject, Create new question paper
+3.Total marks
+4.Select the difficulties and enter the marks for the question 
+5.Create a navbar for every page with the options home, log out.
